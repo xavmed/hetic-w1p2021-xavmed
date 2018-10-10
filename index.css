@@ -1,7 +1,25 @@
-body { 
+body {
+  background-image: url(bck.png);
+  background-repeat: no-repeat;
+  background-position:50% 10%;
+  background-size: inherit;
+  
+
 }
 p {
-  size: 20px;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  color: blueviolet;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: larger;
+  color: indianred;
+  font-weight: bold;
+}
+h1 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  font-size: 38px;
+  color: blue;
+}
+a{
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: larger;
 }
